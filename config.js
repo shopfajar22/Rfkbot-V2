@@ -15,8 +15,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', ''] // ganti jadi group lu
-global.owner = ['6282361160044','6285212023766'] // Put your number here //owner eval
-global.kontak = ['6282361160044','6285212023766'] //Ketika ada yang ngetik #owner
+global.owner = ['6285212023766','6285212023766'] // Put your number here //owner eval
+global.kontak = ['6285212023766','6285212023766'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6282361160044','6285212023766','6285212023766'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -58,7 +58,7 @@ global.author = 'LoppYuu<3' // ganti aja
 
 //yyy
 bc = 'Shiro' //Shiro-Botz Broadcast
-footer = '\n©shiro_craziiphat'
+footer = '\n©Lord Hyzer愛'
 namabot = 'Shiro Botz'
 namalu = 'shiro'
 
