@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
-┌────〔 %me 〕───⬣
+┌────〔 Zyrobotz 〕───⬣
 │⬡ Hai, %name!
 │⬡ Tersisa *%limit Limit*
 │⬡ Role *%role*
@@ -382,7 +382,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                         ], "contextInfo": 
 						{ "stanzaId": m.key.id,
                         "participant": "0@s.whatsapp.net",
-                        "remoteJid": "6283136505591-1614953337@g.us",
+                        "remoteJid": "6281386882668-1614953337@g.us",
                         "quotedMessage": m.message
 						}
                     }
