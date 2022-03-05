@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', ''] // ganti jadi group lu
-global.owner = ['6285212023766','6285212023766'] // Put your number here //owner eval
-global.kontak = ['6285212023766','6285212023766'] //Ketika ada yang ngetik #owner
-global.mods = ['0'] // Want some help?
-global.prems = ['6282361160044','6285212023766','6285212023766'] // Premium user has unlimited limit
+global.linkGC = ['-', ''] // ganti jadi group lu
+global.owner = ['6281386882668','6285772240582'] // Put your number here //owner eval
+global.kontak = ['6281386882668','6281386882668'] //Ketika ada yang ngetik #owner
+global.mods = ['085772240582'] // Want some help?
+global.prems = ['6281386882668','6285772240582','6281386882668'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,20 +47,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'shiro ><'
-namakontak2 = 'shiro'
+namakontak1 = 'Zyrex Store ><'
+namakontak2 = 'Dazzler Jb'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By shiroBotz' // ganti aja
-global.author = 'LoppYuu<3' // ganti aja
+global.packname = 'By Zyrex' // ganti aja
+global.author = 'zyrex<3' // ganti aja
 
 //yyy
 bc = 'Shiro' //Shiro-Botz Broadcast
-footer = '\n©Lord Hyzer愛'
-namabot = 'Shiro Botz'
-namalu = 'shiro'
+footer = '\n©Lord Zyrex愛'
+namabot = 'Zyrex Botz'
+namalu = 'ZyrexStore'
 
 
 // 
